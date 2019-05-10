@@ -1,8 +1,13 @@
 import React from "react";
-import CharsList from "./components/CharacterList.js";
-
-const
+import CharsList from "./CharacterList";
 
 
+
+const Character = (props) => {
+    return (
+
+        
+    );
+}
 
 export default Character;

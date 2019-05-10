@@ -1,12 +1,13 @@
 import React from "react";
-import Character from "./components/CharacterList.js"
+import Character from "./Character";
 
 
-class Chars extends React.Component {
-    constructor() {
-        super();
-        this.state = {starwarsChars: []};
-    }
+const CharacterList = (props) => {
+    return (
+
+        
+    );
 }
+
 
 export default CharacterList; 
